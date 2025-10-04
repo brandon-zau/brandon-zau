@@ -1,7 +1,8 @@
 Hi 👋 My name is Brandon Zau
 ====================================================================================================================================
 
-Prev SWE Intern @ Innovation AI
+Prev SWE Intern @ Innovation AI<br>Software Developer & Marketing Director @ TEDxNortheasternU<br>Marketing Director @ NEU Club Squash
+
 -------------------------------
 
 Hi, I'm Brandon, a Computer Science student at Northeastern University interested in software engineering and collaborating with others to build meaningful projects! I'm naturally curious and enjoy diving into new technologies, and I find that the best insights often come from conversations with fellow developers who approach problems differently than I do.
