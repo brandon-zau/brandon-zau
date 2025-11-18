@@ -1,4 +1,4 @@
-Hi 👋 My name is Brandon Zau
+Hi, I'm Brandon Zau
 ====================================================================================================================================
 
 Prev SWE Intern @ Innovation AI<br>Software Developer & Marketing Director @ TEDxNortheasternU<br>Marketing Director @ NEU Club Squash
