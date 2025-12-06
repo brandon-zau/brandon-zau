@@ -1,7 +1,7 @@
 Hi, I'm Brandon Zau
 ====================================================================================================================================
 
-Prev SWE Intern @ Innovation AI<br>Software Developer & Video Editing Lead @ TEDxNortheasternU<br>Marketing Director @ NEU Club Squash
+Prev SWE Intern @ Innovation AI<br>Director of Technology, Prev Software Developer @ TEDxNortheasternU<br>Marketing Director @ NEU Club Squash
 
 -------------------------------
 
