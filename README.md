@@ -1,7 +1,10 @@
 Hi, I'm Brandon Zau
 ====================================================================================================================================
 
-Incoming SWE Intern @ John Hancock, Prev SWE Intern @ Innovation AI<br>Director of Technology, Prev Software Developer @ TEDxNortheasternU<br>Marketing Director @ NEU Club Squash
+Incoming SWE Intern @ John Hancock
+<br> Prev SWE Intern @ Innovation AI<br>
+Director of Technology, Prev Software Developer @ TEDxNortheasternU
+<br>Marketing Director @ NEU Club Squash
 
 -------------------------------
 
