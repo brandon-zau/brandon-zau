@@ -10,8 +10,6 @@ Director of Technology, Prev Software Developer @ TEDxNortheasternU
 
 Hi, I'm Brandon, a Computer Science student at Northeastern University interested in software engineering and collaborating with others to build meaningful projects! I'm naturally curious and enjoy diving into new technologies, and I find that the best insights often come from conversations with fellow developers who approach problems differently than I do.
 
-* 🌍  I'm based in Boston, MA & San Jose, CA
-* ✉️  You can contact me at [zaubrandon@gmail.com](mailto:zaubrandon@gmail.com)
 # 💫 About Me:
 🌍 I'm based in Boston, MA & San Jose, CA<br>✉️ You can contact me at zaubrandon@gmail.com
 
