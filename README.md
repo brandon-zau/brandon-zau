@@ -2,7 +2,7 @@ Hi, I'm Brandon Zau
 ====================================================================================================================================
 
 <br>Prev SWE Intern @ Sonos <br>
-Prev SWE Intern @ Innovation AI  
+Prev SWE Intern @ Stealth Startup
 Director of Technology, Prev Software Developer @ TEDxNortheasternU
 <br>Marketing Director @ NEU Club Squash
 
